@@ -1,0 +1,2 @@
+# amlogic-libs
+Amlogic libraries
